@@ -4,7 +4,14 @@ A GitHub pull request review agent powered by Claude AI. Point it at any PR and 
 
 ## Demo
 
-![Code Review Agent Demo](demo.png)
+### Agent posting a review to a real GitHub PR
+![PR Review](demo-review.png)
+
+### Agent running in terminal
+![Terminal](demo-terminal.png)
+
+### Evals passing
+![Evals](demo-evals.png)
 
 ## How It Works
 
